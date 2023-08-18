@@ -1,0 +1,53 @@
+header{
+    height: 50px;
+    width: 100vw;
+    background-color: purple;
+    
+}
+header p{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.parent{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+   
+ 
+}
+.chaild1{
+    height: 40px;
+    width: 40px;
+    background-color: aquamarine;
+   position: absolute;
+   top: 10px;
+
+  
+
+ 
+}
+.chaild2{
+    height: 40px;
+    width: 40px;
+    background-color:brown;
+    
+}
+   
+.chaild3{
+    height: 40px;
+    width: 40px;
+    background-color:bisque;
+    
+}
+.chaild4{
+    height: 40px;
+    width: 40px;
+    background-color:lightblue;
+   
+  
+    
+}
+
